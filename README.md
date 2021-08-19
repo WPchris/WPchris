@@ -1,6 +1,7 @@
+<p style:"list-style:none">
 - 👋 Hi, I’m Chris / CRS Design
 - 👀 I’m interested in  Design
-- 🌱 I’m currently learning Media Designer Digital and Print
+- 🌱 I’m currently learning Media Designer Digital and Print </p>
 
 <!---
 WPchris/WPchris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
